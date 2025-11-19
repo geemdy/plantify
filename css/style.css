@@ -42,7 +42,10 @@ a {
 
 html>body {
   overflow-x: hidden;
-  font-family: 'Pretendard-Regular';
+}
+
+body {
+	font-family: 'Pretendard-Regular', sans-serif;
 }
 
 /* 웬만하면 필요한 곳만 넣어주는 게 좋음 */
@@ -988,7 +991,7 @@ main {
 
 .recipe-section .all-box__recipe > .item-wrap .hover-box > .text-box h2 {
   font-size: 24px;
-  font-family: 'Pretendard-bold';
+  font-family: 'Fanky Bubble Graffiti', 'Pretendard-Regular', sans-serif;;
   margin-top: 20px;
 } 
 
@@ -996,6 +999,8 @@ main {
   font-size: 16px;
   margin-top: 5px;
   color: #FFF9E7;
+  font-family: 'Fanky Bubble Graffiti', 'Pretendard-Regular', sans-serif;
+  margin-top: 20px;
 }
 
 .recipe-section .all-box__recipe > .item-wrap .hover-box .time-box {
@@ -1092,7 +1097,8 @@ main {
 }
 
 .text-box p {
-    font-family: 'Pretendard';
+    font-family: 'Fanky Bubble Graffiti', 'Pretendard-Regular', sans-serif;
+    margin-top: 20px;
     font-size: 23px;
     color: #444;
     margin-top: 20px;
@@ -1114,7 +1120,8 @@ main {
 }
 
 .event-btn {
-    font-family: 'Pretendard';
+    font-family: 'Fanky Bubble Graffiti', 'Pretendard-Regular', sans-serif;
+    margin-top: 20px;
     display: inline-block;
     background-color: #ff6f5a;
     color: white;
