@@ -759,16 +759,17 @@ footer > .ft-text-wrap > .ft-customer-service > ul {
   justify-content: left;
   gap: 25px;
   padding-bottom: 30px;
-  font-family: 'Fanky Bubble Graffiti', 'Pretendard-Regular', sans-serif;
+  font-family: 'Pretendard-Regular', sans-serif;
 }
 footer > .ft-text-wrap > .ft-customer-service > ul > li {
   color: #FFF9E7;
   white-space: nowrap;
+  font-family: 'Pretendard-Regular', sans-serif;
 }
 
 footer > .ft-text-wrap > .ft-customer-service > ul > li > a {
   font-size: 20px;
-  font-family: 'Fanky Bubble Graffiti', 'Pretendard-Regular', sans-serif;
+  font-family: 'Pretendard-Regular', sans-serif;
 }
 
 /* ft-text */
@@ -776,10 +777,11 @@ footer > .ft-text-wrap > .ft-text {
   color: #FFF9E7;
   font-size: 16px;
   white-space: nowrap;
-  font-family: 'Fanky Bubble Graffiti', 'Pretendard-Regular', sans-serif;
+  font-family: 'Pretendard-Regular', sans-serif;
 }
 footer > .ft-text-wrap > .ft-text > address, span {
   line-height: 30px;
+  font-family: 'Pretendard-Regular', sans-serif;
   
 } 
 /* sns-box */
