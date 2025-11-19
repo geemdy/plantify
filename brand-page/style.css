@@ -429,7 +429,7 @@ z-index: 0;
 .desc {
   font-size: 20px;
   font-weight: normal;
-  line-height: 32px;
+  line-height: 50px;
   letter-spacing: -0.5px;
   color: #046746;
   margin-top: 60px;
@@ -583,6 +583,7 @@ z-index: 0;
   font-family: 'Aggro';
   white-space: nowrap;
   z-index: 1;
+  margin-top: 20px;
 }
 
 .slogan_inner > .slogan_all-wrap .textbox_slogan > .point-box {
