@@ -585,6 +585,7 @@ z-index: 0;
   white-space: nowrap;
   z-index: 1;
   margin-top: 8px;
+  font-family: 'Pretendard-Regular', sans-serif;
 }
 
 .slogan_inner > .slogan_all-wrap .textbox_slogan > .point-box {
