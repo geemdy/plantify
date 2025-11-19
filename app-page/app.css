@@ -80,6 +80,10 @@ html>body {
   font-family: 'Pretendard-Regular';
 }
 
+body { 
+	font-family: 'Pretendard-Regular', sans-serif;
+}
+
 /* 노말라이즈 끝 */
 
 /* 라이브러리 */
