@@ -521,6 +521,7 @@ body::-webkit-scrollbar-track {
   opacity: 0;
   will-change: transform, opacity;
   transition: transform 800ms cubic-bezier(.2,.8,.2,1), opacity 600ms ease;
+  font-family: 'Fanky Bubble Graffiti', 'Pretendard-Regular', sans-serif;
 }
 
 .main-wrap  .main_text-wrap .main_btn-box {
@@ -631,6 +632,7 @@ body::-webkit-scrollbar-track {
   letter-spacing: -.5;
   color: var(--color-btn2);
   text-align: left;
+  font-family: 'Fanky Bubble Graffiti', 'Pretendard-Regular', sans-serif;
 }
 
 .sec_img-wrap {
@@ -703,6 +705,7 @@ body::-webkit-scrollbar-track {
 
 .sec-4 .sec-4_text {
   position: relative;
+  font-family: 'Fanky Bubble Graffiti', 'Pretendard-Regular', sans-serif;
 }
 
 .sec_text-img {
@@ -771,6 +774,7 @@ footer > .ft-text-wrap > .ft-text {
   color: #FFF9E7;
   font-size: 16px;
   white-space: nowrap;
+  font-family: 'Fanky Bubble Graffiti', 'Pretendard-Regular', sans-serif;
 }
 footer > .ft-text-wrap > .ft-text > address, span {
   line-height: 30px;
