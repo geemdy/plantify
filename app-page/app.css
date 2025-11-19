@@ -510,6 +510,7 @@ body::-webkit-scrollbar-track {
 
 .main_text-wrap .main_text-box .main_title span {
   color: var(--color-main);
+  font-family: 'Aggravo';
 }
 
 .main_text-wrap .main_text-box .main_text {
