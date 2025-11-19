@@ -432,7 +432,7 @@ z-index: 0;
   line-height: 50px;
   letter-spacing: -0.5px;
   color: #046746;
-  margin-top: 60px;
+  margin-top: 40px;
 }
 
 /* 서비스 섹션 */
@@ -467,6 +467,7 @@ z-index: 0;
   justify-content: center;
   align-items: center;
   gap: 10px;
+  margin-top: 40px;
 }
 
 .service-wrap > .text-wrap-2 > .text-box > .title {
@@ -583,7 +584,7 @@ z-index: 0;
   font-family: 'Aggro';
   white-space: nowrap;
   z-index: 1;
-  margin-top: 20px;
+  margin-top: 8px;
 }
 
 .slogan_inner > .slogan_all-wrap .textbox_slogan > .point-box {
