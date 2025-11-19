@@ -42,7 +42,7 @@ a {
 
 html>body {
   overflow-x: hidden;
-  font-family: 'Pretendard-Regular';
+  font-family: 'Pretendard', 'sans-serif;
 }
 
 /* 웬만하면 필요한 곳만 넣어주는 게 좋음 */
