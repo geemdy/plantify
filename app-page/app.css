@@ -759,6 +759,7 @@ footer > .ft-text-wrap > .ft-customer-service > ul {
   justify-content: left;
   gap: 25px;
   padding-bottom: 30px;
+  font-family: 'Fanky Bubble Graffiti', 'Pretendard-Regular', sans-serif;
 }
 footer > .ft-text-wrap > .ft-customer-service > ul > li {
   color: #FFF9E7;
@@ -767,6 +768,7 @@ footer > .ft-text-wrap > .ft-customer-service > ul > li {
 
 footer > .ft-text-wrap > .ft-customer-service > ul > li > a {
   font-size: 20px;
+  font-family: 'Fanky Bubble Graffiti', 'Pretendard-Regular', sans-serif;
 }
 
 /* ft-text */
