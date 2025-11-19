@@ -42,8 +42,12 @@ a {
 
 html>body {
   overflow-x: hidden;
-  font-family: 'Pretendard', 'sans-serif;
 }
+
+body {
+  font-family: "Pretendard", -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+}
+
 
 /* 웬만하면 필요한 곳만 넣어주는 게 좋음 */
 * {
